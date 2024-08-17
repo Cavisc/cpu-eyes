@@ -1,6 +1,4 @@
-|  | CPU Eyes  |
-|---|---|
-| <img src="https://github.com/Cavisc/cpu-eyes/blob/main/assets/cpu_eyes_icon.png" width="100" height="100"> | **CPU Eyes** |
+# CPU Eyes
 
 Um monitor de CPU simples e eficiente, construído com Electron, HTML, CSS e JavaScript. O CPU Eyes fornece informações detalhadas sobre o seu sistema, incluindo:
 
