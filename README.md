@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="256" height="256" src="./assets/cpu_eyes.png"/>
+    <img width="256" height="256" src="./assets/cpu_eyes.gif"/>
 </p>
 
 # CPU Eyes
