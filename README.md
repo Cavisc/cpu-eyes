@@ -22,5 +22,5 @@ Um monitor de CPU simples e eficiente, construído com Electron, HTML, CSS e Jav
 Para construir o aplicativo para diferentes sistemas operacionais, utilize os seguintes comandos:
 
 - **Windows:** `npm run windows`
-- **macOS:** `npm run mac`
-- **Linux:** `npm run linux`
+- **macOS:** `npm run mac` (_não testado_)
+- **Linux:** `npm run linux` (_não testado_)
