@@ -1,6 +1,6 @@
-# CPU Eyes
+![Logo do CPU Eyes](./assets/cpu_eyes.png)
 
-# ![Logo do CPU Eyes](./assets/cpu_eyes.png)
+# CPU Eyes
 
 Um monitor de CPU simples e eficiente, construído com Electron, HTML, CSS e JavaScript. O CPU Eyes fornece informações detalhadas sobre o seu sistema, incluindo:
 
