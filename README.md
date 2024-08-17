@@ -1,6 +1,7 @@
-![Logo do CPU Eyes](./assets/cpu_eyes.png)
-
-# CPU Eyes
+<div style="display: flex; justify-content: left; gap: 1rem">
+    <img width="48px" height="48px" src="./assets/cpu_eyes.png"/>
+    <h1>CPU Eyes</h1>
+</div>
 
 Um monitor de CPU simples e eficiente, construído com Electron, HTML, CSS e JavaScript. O CPU Eyes fornece informações detalhadas sobre o seu sistema, incluindo:
 
