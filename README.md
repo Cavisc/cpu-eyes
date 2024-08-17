@@ -1,4 +1,6 @@
-![Logo do CPU Eyes](./assets/cpu_eyes.png)
+<p align="center">
+    <img width="256" height="256" src="./assets/cpu_eyes.png"/>
+</p>
 
 # CPU Eyes
 
