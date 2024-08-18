@@ -5,9 +5,9 @@
   "main": "electron/main.js",
   "scripts": {
     "start": "electron .",
-    "mac": "npx electron-packager . --icon assets/cpu_eyes_icon.icns --out=packages",
-    "linux": "npx electron-packager . --icon assets/cpu_eyes_icon.png --out=packages",
-    "windows": "npx electron-packager . --icon assets/cpu_eyes_icon.ico --out=packages"
+    "mac": "npx electron-packager . --icon assets/cpu_eyes.icns --out=packages",
+    "linux": "npx electron-packager . --icon assets/cpu_eyes.png --out=packages",
+    "windows": "npx electron-packager . --icon assets/cpu_eyes.ico --out=packages"
   },
   "author": "Cavisc",
   "license": "ISC",
