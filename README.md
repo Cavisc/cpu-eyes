@@ -13,9 +13,9 @@ Um monitor de CPU simples e eficiente, construído com Electron, HTML, CSS e Jav
 
 ## Tecnologias Utilizadas
 
-- **Electron (v31.3.1):** Framework para criar aplicativos de desktop com tecnologias web.
+- **[Electron (v31.3.1)](https://www.electronjs.org/):** Framework para criar aplicativos de desktop com tecnologias web.
 - **HTML, CSS, JavaScript:** Linguagens padrão para desenvolvimento web.
-- **systeminformation (v5.23.3):** Biblioteca Node.js para obter informações detalhadas sobre o sistema.
+- **[systeminformation (v5.23.3)](https://www.npmjs.com/package/systeminformation):** Biblioteca Node.js para obter informações detalhadas sobre o sistema.
 
 ## Build
 
