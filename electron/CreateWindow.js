@@ -13,6 +13,7 @@ function CreateWindow() {
       webPreferences: {
         nodeIntegration: true,
         contextIsolation: false,
+        devTools: false,
       },
       transparent: true,
     });
