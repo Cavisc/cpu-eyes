@@ -25,4 +25,4 @@ Para construir o aplicativo para diferentes sistemas operacionais, utilize os se
 - **macOS:** `npm run mac`
 - **Linux:** `npm run linux`
 
-**OBS:** a aplicação não foi testada em macOS e Linux
+**OBS:** a aplicação não foi testada em macOS
